@@ -58,6 +58,7 @@ This project utilizes the following technologies:
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
  * 🏗️ [ETHGlobal Agentic Hackathon © 2025](https://ethglobal.com)
  * 🔵 [Coinbase Developer Platform](https://www.coinbase.com/developer-platform)
+ * 🛠️ [Replit](https://replit.com/@nolimit5ster/SudoSoccer)
  
   <h1 align="left">
   <a href="https://discord.gg/ethglobal"><img src="static/Join-Discord.png" width="380" alt="Join Discord"></a>
